@@ -10,7 +10,7 @@ it has my repository file-->
 
 
 # Steps took to clone the repository 
-<!-- After loging into my GitHub account and providing name to the file I was able to find the "Clone repository" button where I downloaded a copy of the repository and uploaded it into my desktop under my CTI.110 Folder -->   
+After loging into my GitHub account and providing name to the file I was able to find the "Clone repository" button where I downloaded a copy of the repository and uploaded it into my desktop under my CTI.110 Folder 
 
 
 
